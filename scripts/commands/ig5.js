@@ -1,6 +1,6 @@
 /** Đổi Credit ? Bọn t đã không mã hóa cho mà edit rồi thì tôn trọng nhau tý đi ¯\_(ツ)_/¯ **/
 module.exports.config = {
-  name: "ig",
+  name: "girl",
   version: "1.0.0", 
   permission: 0,
   credits: "ALVI",
@@ -19,7 +19,7 @@ module.exports.run = async({api,event,args,client,Users,Threads,__GLOBAL,Currenc
 const axios = global.nodemodule["axios"];
 const request = global.nodemodule["request"];
 const fs = global.nodemodule["fs-extra"];
-   var hi = ["❊ 𝗔𝗥𝗬𝗔𝗡 𝗖𝗛𝗢𝗪𝗗𝗛𝗨𝗥𝗬 ❊"
+   var hi = ["❊ 𝗠𝗢𝗥𝗦𝗛𝗘𝗗 𝗔𝗛𝗠𝗘𝗗 ❊"
  ];
   var know = hi[Math.floor(Math.random() * hi.length)];
     var link = [
